@@ -1,7 +1,7 @@
-# musical_rudiments
+# musical rudiments
 A music rudiments testing application developed for the University of Victoria
 
-Tools used:
+## Tools used:
 HTML, CSS, Javascript + JQuery is used for front end, PHP/AJAX for back end (generating test reports and storing them on the server end)
 
 Visualization of the musical notation using Vexflow and Vextab by 0xfe (I have made some small changes to the original library to incorporate changing of colors and hiding key signature when necessary).
