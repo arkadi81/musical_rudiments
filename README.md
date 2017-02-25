@@ -17,11 +17,11 @@ Server just needs to have php processing cabapilities. Placing the contents on a
 
 This is a work in progress. I have built this for my department as I was relearing web development with Java and PHP this past year. I am currently considering ideas to expand this program into a more universal testing / learning application for both music and other disciplines.
 
-- As I've been discovering newer tools, frameworks etc, I would like to convert some portions of the application to use AngularJS for handling MVC stuff (right now it is all handled using JS / JQuery)
-- Some cleanup of the theory module is necessary, although most of the logic is sound.
-- Redesign of interface to allow more types of question
-- Incorporate login for students and instructors
-- incorporate saving progress for authenticated users
-- Create an admin screen for tweaking the number of questions and limitations of each question (currently just maintained by me remotely)
+- As I've been discovering newer tools, frameworks etc, I would like to convert some portions of the application to use Express / Knockout or possibly AngularJS for handling MVC stuff (right now it is all handled using JS / JQuery, and routing is through php headers)
+- Some cleanup of the theory module is necessary, in particular removal of redundant and deprecated structures.
+- Redesign of interface to allow more types of questions.
+- Incorporate login for students and instructors.
+- incorporate saving progress for authenticated users.
+- Create an admin screen for tweaking the number of questions and limitations of each question (currently just maintained by me remotely).
 
 
