@@ -18,6 +18,7 @@ Server just needs to have php processing cabapilities. Placing the contents on a
 This is a work in progress. I have built this for my department as I was relearing web development with Java and PHP this past year. I am currently considering ideas to expand this program into a more universal testing / learning application for both music and other disciplines.
 
 - As I've been discovering newer tools, frameworks etc, I would like to convert some portions of the application to use Express / Knockout or possibly AngularJS for handling MVC stuff (right now it is all handled using JS / JQuery, and routing is through php headers)
+- Make the application more mobile friendly (currently displays properly on all of the devices I tested, but not very pleasent to use on small screens. I'd like to make single question views with larger text for mobile devices).
 - Some cleanup of the theory module is necessary, in particular removal of redundant and deprecated structures.
 - Redesign of interface to allow more types of questions.
 - Incorporate login for students and instructors.
