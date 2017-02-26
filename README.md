@@ -10,7 +10,7 @@ A music rudiments testing application developed for the University of Victoria
 - The testing is NOT pulled from a bank of questions. The application has a means of interpretting music theory concepts and building random questions on the fly, given set limitations. Every time a new test begins, all questions are random. 
 
 ## Setup
-To make the app work all external library links need to be fixed links will need to be fixed to CDNs
+To make the app work all external library links need to be fixed to CDNs
 Server just needs to have php processing cabapilities. Placing the contents on a WAMP or similar setup will work out of the box if links are fixed.
 
 ## Further development / todo
