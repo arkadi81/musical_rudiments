@@ -1,3 +1,32 @@
+# Music Rudiments ver 2.0b
+A software package for testing and study of music theory
+
+## goals for this version
+* Allow the program to scale for other types of questions and discipline
+* Rewrite and refactor code for a cleaner and more maintainable code base
+* rewrite and standardize music theory API
+* Provide more robust documentation of API
+* Practice proper top down / prototyping software development process, strengthen existing skills and reinforce existing skills
+* Practice TDD and implement more robust code coverage
+
+## Desired new features
+* A server which will allow for server side and client side routing
+* Proper templating
+* Responsive design with a distinct pallete which will not rely solely on Bootstrap
+* Incorporation of database to store
+
+## Task list
+* [ ] Introduce a new server backbone which will allow for templating and server/client side routing
+* [ ] Implement admin front end board to allow for tweaking and saving preferences and preference schemes
+* [ ] Incorporate CRUD database API which will allow non identifiable information saving, such as state save for tests in progress
+* [ ] allow for saving of test results and bulk view/download of results as zip of individual tests or xlsx / csv of results
+* [ ] incorporate front end routing, templating and DOM update via knockout/Sammy
+* [ ] refactor all code to comply with templates
+* [ ] develop scalable framework to allow current questions and question sets to become part of a practice suite for other subjects
+* [ ] Verify compatibility and UI/UX for small screens, user's ability to work on a phone.
+* [ ] Revisit reporting abilities of individual tests and test student groups.
+
+
 # Musical Rudiments
 A music rudiments testing application developed for the University of Victoria
 
