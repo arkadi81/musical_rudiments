@@ -17,6 +17,9 @@ A software package for testing and study of music theory
 
 ## Task list
 * [ ] Introduce a new server backbone which will allow for templating and server/client side routing
+* [ ] design and implement CRUD database support which will allow non identifiable information saving, such as state save for tests in progress
+* Incorporate / revisit authentication for testing purposes, and session managment on the new backbone
+* verify access rights on all server endpoints
 * [ ] Implement admin front end board to allow for tweaking and saving preferences and preference schemes
 * [ ] Incorporate CRUD database API which will allow non identifiable information saving, such as state save for tests in progress
 * [ ] allow for saving of test results and bulk view/download of results as zip of individual tests or xlsx / csv of results
